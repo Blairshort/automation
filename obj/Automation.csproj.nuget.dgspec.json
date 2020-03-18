@@ -1,26 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\liber\\Desktop\\Automation\\Automation.csproj": {}
+    "c:\\Users\\bshort\\Desktop\\automation\\Automation.csproj": {}
   },
   "projects": {
-    "c:\\Users\\liber\\Desktop\\Automation\\Automation.csproj": {
+    "c:\\Users\\bshort\\Desktop\\automation\\Automation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\liber\\Desktop\\Automation\\Automation.csproj",
+        "projectUniqueName": "c:\\Users\\bshort\\Desktop\\automation\\Automation.csproj",
         "projectName": "Automation",
-        "projectPath": "c:\\Users\\liber\\Desktop\\Automation\\Automation.csproj",
-        "packagesPath": "C:\\Users\\liber\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\liber\\Desktop\\Automation\\obj\\",
+        "projectPath": "c:\\Users\\bshort\\Desktop\\automation\\Automation.csproj",
+        "packagesPath": "C:\\Users\\bshort\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\bshort\\Desktop\\automation\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\liber\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\bshort\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -79,7 +74,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

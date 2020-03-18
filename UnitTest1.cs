@@ -24,12 +24,8 @@ namespace Automation
         [Test]
         public void TestSignIn()
         {
-            driver.Url = "https://profile-ci-web.azurewebsites.net/consultants";
-            IWebElement addConsultantButton = driver.FindElement(By.ClassName("add-button"));
-            addConsultantButton.Click();
-            addConsultantButton.SendKeys("Liberty");
-            addConsultantButton.SendKeys("\t");
-            Assert.Pass();
+            driver.Url = "https://www.wholefoodsmarket.com/";
+
         }
 
         [OneTimeTearDown]
